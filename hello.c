@@ -9,7 +9,7 @@
 
 int main(int argc, char **argv) {
 
-    printf("Hello world!\n");
+    printf("Noah Zetocha\nNon-Degree Post-Baccalaureate\n");
 
     return 0;
 }
