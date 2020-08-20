@@ -10,6 +10,10 @@
 int main(int argc, char **argv) {
 
     printf("Noah Zetocha\nNon-Degree Post-Baccalaureate\n");
+    
+    printf("Joel Bargen\n");
+    printf("Computer Science\n");
 
     return 0;
+    
 }
